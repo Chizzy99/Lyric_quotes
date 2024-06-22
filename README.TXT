@@ -1,0 +1,3 @@
+A random generator of song lyrics to show the use of Event listeners.
+Query selectors and click events function to show use and power of these.
+ For my reference only....
